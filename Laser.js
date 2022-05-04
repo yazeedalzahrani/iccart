@@ -10,7 +10,7 @@ let ll;
 let song2;
 
 function setup() {
-  canvas =createCanvas(600, 450);
+  canvas =createCanvas(700, 700);
 
     canvas.mouseClicked(musicController);
 
